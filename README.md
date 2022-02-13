@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="100%" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="50%" />
 
 <br>
 
